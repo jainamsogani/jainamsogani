@@ -6,7 +6,7 @@ I'm a pre-final year ECE undergrad at __NIT-Jalandhar__.
 - 🌱I’m currently learning ```React JS```.
 - 💭I love to do __problem solving__ and can do it 24/7.
 - 💻I'm a __Competitive Programmer__ passionate about timed contests.
-  - ⚡My competitive profiles : [Codeforces (Expert)](https://codeforces.com/profile/jainam_sogani), [CodeChef (4⭐)](https://www.codechef.com/users/jainam_sogani) and [LeetCode (Knight)](https://leetcode.com/jainam_sogani/)
+  - ⚡My competitive profiles : [Codeforces (Expert)](https://codeforces.com/profile/jainam_sogani), [CodeChef (5⭐)](https://www.codechef.com/users/jainam_sogani) and [LeetCode (Knight)](https://leetcode.com/jainam_sogani/)
 - 📫React me out at [LinkedIn](https://www.linkedin.com/in/jainamsogani/) or mail me at [jain.jainamsogani@gmail.com](mailto:jain.jainamsogani@gmail.com).
 
 <!--
