@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm a final year ECE undergrad at __NIT-Jalandhar__.
 
-- 💼I'm a SWE Intern (2022) at ```Microsoft```.
+- 💼I interned at ```Microsoft``` in the summer of '22.
 - 🤓I'm intrested in ```Web Development``` and ```Competitive Programming```.
 - 💭I love to do __problem solving__ and can do it 24/7.
 - 💻I'm a __Competitive Programmer__ passionate about timed contests.
