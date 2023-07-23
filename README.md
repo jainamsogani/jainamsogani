@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm a final year ECE undergrad at __NIT-Jalandhar__.
+I'm a Software Engineer at __Microsoft__.
 
-- 💼I am currently interning at ```GeeksforGeeks``` and previously interned at ```Microsoft``` in the summer of '22.
-- 🤓I'm intrested in ```Web Development``` and ```Competitive Programming```.
+- 💼I previously interned at ```Microsoft``` and ```GeeksforGeeks```.
+- 🎓I pursued my BTech from ```NIT Jalandhar```.
+- 🤓I'm interested in ```Web Development``` and ```Competitive Programming```.
 - 💭I love to do __problem solving__ and can do it 24/7.
 - 💻I'm a __Competitive Programmer__ passionate about timed contests.
   - ⚡My competitive profiles : [Codeforces (Expert)](https://codeforces.com/profile/jainam_sogani), [CodeChef (5⭐)](https://www.codechef.com/users/jainam_sogani) and [LeetCode (Guardian)](https://leetcode.com/jainam_sogani/)
